@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">الجافا فقط</string>
+    <string name="toppings">إضافات</string>
+    <string name="whipped_cream">كريمه</string>
+    <string name="chocolate">شوكولاتة</string>
+    <string name="quantity">الكميه</string>
+    <string name="initial_quantity_value">٢</string>
+    <string name="order">أطلب</string>
+    <string name="order_summary_name">: الأسم <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">إضافة كريمه ؟  <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">إضافة شوكولاتة؟<xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">: الكميه <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">:الأجمالى <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_email_subject">الجافا فقط إلى  <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="thank_you">شكراَ</string>
+    <string name="name">الأسم</string>
+    <string name="boolean_true">نعم</string>
+    <string name="boolean_false">لا</string>
+    <string name="toastDecrease">You cannot have less than 1 coffee</string>
+    <string name="toastIncrease">You cannot have more than 50 coffees</string>
+</resources>

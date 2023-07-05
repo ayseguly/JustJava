@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">KahveSiparişi</string>
+    <string name="toppings">Eklentiler</string>
+    <string name="thank_you">Teşekkürler!</string>
+    <string name="name">İsim</string>
+    <string name="whipped_cream">Krema</string>
+    <string name="chocolate">Çikolata</string>
+    <string name="quantity">Miktar</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order">Sipariş</string>
+    <string name="order_summary_whipped_cream">"Krema eklensin mi? "<xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">"Çikolata eklensin mi? "<xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_price">Toplam:<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_email_subject">"Sadece Java siparişi: "<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">"Miktar: "<xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_name">"İsim: "<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="boolean_true">Evet</string>
+    <string name="boolean_false">Hayır</string>
+    <string name="toastDecrease">1 fincan kahveden daha az alamazsınız</string>
+    <string name="toastIncrease">50 fincan kahveden daha çok alamazsınız</string>
+</resources>
